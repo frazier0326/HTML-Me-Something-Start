@@ -1,1 +1,53 @@
 /* Write your CSS here! */
+
+
+/* Elements */
+body {
+    margin: 8px;
+    display: block;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+footer {
+    background-color: pink;
+}
+/*Classes*/
+.funParagraph {
+    background-color: pink;
+    border-style:double;
+    color: purple
+}
+
+.images {
+    overflow-x: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.headers {
+    font-style: oblique;
+    font-size: 22pt;
+}
+
+/* Ids */
+#mainHeading {
+    font-size:42pt;
+    text-align: center;
+    background-color: pink;
+    font-weight: 400;
+    overflow-x: hidden;
+    color: white;
+    font-style: italic;
+}
+
+#tagline {
+    background-color: pink;
+    font-style: italic;
+    font-weight: 200;
+    color: white;
+    
+}
