@@ -29,7 +29,7 @@ li {
 .funParagraph {
     background-color: pink;
     border-style:double;
-    color: purple
+    color: green;
 }
 
 .images {
@@ -50,7 +50,7 @@ li {
     background-color: pink;
     font-weight: 400;
     overflow-x: hidden;
-    color: white;
+    color: red;
     font-style: italic;
 }
 
