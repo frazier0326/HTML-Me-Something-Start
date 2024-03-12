@@ -15,21 +15,34 @@ footer {
 
 h2 {
     font-style: oblique;
-    font-size: 22pt;
+    font-size: 32pt;
     background-color: pink;
 }
 
 h4 {
     text-align: left;
+    font-size: 22pt;
 }
 li {
     text-align: left;
+    font-size: 18pt;
 }
+
+p {
+    font-size: 18pt;
+}
+h3 {
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+}
+
 /*Classes*/
 .funParagraph {
     background-color: pink;
     border-style:double;
     color: green;
+    font-size: 28pt;
 }
 
 .images {
@@ -42,6 +55,11 @@ li {
    
 }
 
+.inline-block {
+    /* display: inline-block; */
+    display: flex;
+    justify-content: space-between;
+}
 
 /* Ids */
 #mainHeading {
